@@ -21,6 +21,18 @@
 		8F24189918FC814900B569A4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F24187B18FC814900B569A4 /* UIKit.framework */; };
 		8F2418A118FC814900B569A4 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8F24189F18FC814900B569A4 /* InfoPlist.strings */; };
 		8F2418A318FC814900B569A4 /* MayankJainTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F2418A218FC814900B569A4 /* MayankJainTests.m */; };
+		8F2418AD18FC817700B569A4 /* zerog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F2418AC18FC817700B569A4 /* zerog.jpg */; };
+		8F2418B018FC846500B569A4 /* BebasNeue.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8F2418AE18FC829100B569A4 /* BebasNeue.otf */; };
+		8F2418B118FC846700B569A4 /* BEBAS___.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F2418AF18FC83E600B569A4 /* BEBAS___.ttf */; };
+		8F7947CB18FC86DC0091E59D /* EduViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947C918FC86DC0091E59D /* EduViewController.xib */; };
+		8F7947CD18FC873C0091E59D /* quad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947CC18FC873C0091E59D /* quad.jpg */; };
+		8F7947D318FC882B0091E59D /* EduView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F7947D218FC882B0091E59D /* EduView.m */; };
+		8F7947D518FCA3C00091E59D /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947D418FCA28A0091E59D /* ProximaNova-Regular.otf */; };
+		8F7947D718FCA46A0091E59D /* chief.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947D618FCA46A0091E59D /* chief.png */; };
+		8F7947DB18FCA5420091E59D /* tjlogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947DA18FCA5420091E59D /* tjlogo.png */; };
+		8F7947DD18FCA6880091E59D /* humin.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947DC18FCA6880091E59D /* humin.png */; };
+		8F7947DF18FCA6C60091E59D /* kairos.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947DE18FCA6C60091E59D /* kairos.png */; };
+		8F7947E118FCA9130091E59D /* alt_underline_white_800.png in Resources */ = {isa = PBXBuildFile; fileRef = 8F7947E018FCA9130091E59D /* alt_underline_white_800.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +65,19 @@
 		8F24189E18FC814900B569A4 /* MayankJainTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MayankJainTests-Info.plist"; sourceTree = "<group>"; };
 		8F2418A018FC814900B569A4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8F2418A218FC814900B569A4 /* MayankJainTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MayankJainTests.m; sourceTree = "<group>"; };
+		8F2418AC18FC817700B569A4 /* zerog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zerog.jpg; sourceTree = "<group>"; };
+		8F2418AE18FC829100B569A4 /* BebasNeue.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BebasNeue.otf; sourceTree = "<group>"; };
+		8F2418AF18FC83E600B569A4 /* BEBAS___.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BEBAS___.ttf"; sourceTree = "<group>"; };
+		8F7947C918FC86DC0091E59D /* EduViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EduViewController.xib; sourceTree = "<group>"; };
+		8F7947CC18FC873C0091E59D /* quad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quad.jpg; sourceTree = "<group>"; };
+		8F7947D118FC882B0091E59D /* EduView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EduView.h; sourceTree = "<group>"; };
+		8F7947D218FC882B0091E59D /* EduView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EduView.m; sourceTree = "<group>"; };
+		8F7947D418FCA28A0091E59D /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Regular.otf"; sourceTree = "<group>"; };
+		8F7947D618FCA46A0091E59D /* chief.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chief.png; sourceTree = "<group>"; };
+		8F7947DA18FCA5420091E59D /* tjlogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tjlogo.png; sourceTree = "<group>"; };
+		8F7947DC18FCA6880091E59D /* humin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = humin.png; sourceTree = "<group>"; };
+		8F7947DE18FCA6C60091E59D /* kairos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kairos.png; sourceTree = "<group>"; };
+		8F7947E018FCA9130091E59D /* alt_underline_white_800.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alt_underline_white_800.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,9 +137,22 @@
 		8F24187D18FC814900B569A4 /* MayankJain */ = {
 			isa = PBXGroup;
 			children = (
+				8F7947D118FC882B0091E59D /* EduView.h */,
+				8F7947D218FC882B0091E59D /* EduView.m */,
+				8F7947E018FCA9130091E59D /* alt_underline_white_800.png */,
+				8F7947D618FCA46A0091E59D /* chief.png */,
+				8F7947DA18FCA5420091E59D /* tjlogo.png */,
+				8F7947DC18FCA6880091E59D /* humin.png */,
+				8F7947DE18FCA6C60091E59D /* kairos.png */,
+				8F7947D418FCA28A0091E59D /* ProximaNova-Regular.otf */,
+				8F2418AE18FC829100B569A4 /* BebasNeue.otf */,
+				8F2418AF18FC83E600B569A4 /* BEBAS___.ttf */,
+				8F7947CC18FC873C0091E59D /* quad.jpg */,
 				8F24188618FC814900B569A4 /* AppDelegate.h */,
+				8F2418AC18FC817700B569A4 /* zerog.jpg */,
 				8F24188718FC814900B569A4 /* AppDelegate.m */,
 				8F24188918FC814900B569A4 /* Main.storyboard */,
+				8F7947C918FC86DC0091E59D /* EduViewController.xib */,
 				8F24188C18FC814900B569A4 /* ViewController.h */,
 				8F24188D18FC814900B569A4 /* ViewController.m */,
 				8F24188F18FC814900B569A4 /* Images.xcassets */,
@@ -229,8 +267,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F24189018FC814900B569A4 /* Images.xcassets in Resources */,
+				8F7947DD18FCA6880091E59D /* humin.png in Resources */,
+				8F7947D718FCA46A0091E59D /* chief.png in Resources */,
 				8F24188218FC814900B569A4 /* InfoPlist.strings in Resources */,
+				8F7947D518FCA3C00091E59D /* ProximaNova-Regular.otf in Resources */,
+				8F7947E118FCA9130091E59D /* alt_underline_white_800.png in Resources */,
+				8F7947CD18FC873C0091E59D /* quad.jpg in Resources */,
 				8F24188B18FC814900B569A4 /* Main.storyboard in Resources */,
+				8F7947CB18FC86DC0091E59D /* EduViewController.xib in Resources */,
+				8F2418B018FC846500B569A4 /* BebasNeue.otf in Resources */,
+				8F7947DF18FCA6C60091E59D /* kairos.png in Resources */,
+				8F2418B118FC846700B569A4 /* BEBAS___.ttf in Resources */,
+				8F2418AD18FC817700B569A4 /* zerog.jpg in Resources */,
+				8F7947DB18FCA5420091E59D /* tjlogo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +299,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F24188E18FC814900B569A4 /* ViewController.m in Sources */,
+				8F7947D318FC882B0091E59D /* EduView.m in Sources */,
 				8F24188818FC814900B569A4 /* AppDelegate.m in Sources */,
 				8F24188418FC814900B569A4 /* main.m in Sources */,
 			);
@@ -456,6 +506,7 @@
 				8F2418A818FC814900B569A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8F2418A918FC814900B569A4 /* Build configuration list for PBXNativeTarget "MayankJainTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +515,7 @@
 				8F2418AB18FC814900B569A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

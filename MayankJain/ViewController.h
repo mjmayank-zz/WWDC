@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "EduView.h"
 
 @interface ViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIImageView *profilePic;
+@property (strong, nonatomic) IBOutlet UILabel *educationLabel;
+@property (strong, nonatomic) IBOutlet UILabel *uiucLabel;
+@property (strong, nonatomic) IBOutlet UIButton *expandEduButton;
 
+- (IBAction)eduButtonPressed:(id)sender;
 @end
